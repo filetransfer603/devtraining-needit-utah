@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="7d09e6f4336f4b102c249c1c7d5c7bb9" label="test" max_length="40" name="x_58872_needit_test" type="collection">
+        <element label="grade" max_length="40" name="grade" type="string"/>
+    </element>
+</database>
